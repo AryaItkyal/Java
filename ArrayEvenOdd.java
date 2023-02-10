@@ -128,8 +128,6 @@ public class ArrayEvenOdd
                     }
                 }
                 
-            default:
-                System.out.println("Invalid choice");
         }
         sc1.close();
     }    
