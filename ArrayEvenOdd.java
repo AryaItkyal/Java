@@ -73,7 +73,7 @@ public class ArrayEvenOdd
                 int[] even = new int[10];
 
                 Scanner sc = new Scanner(System.in);
-                System.out.print("Enter numbers to classify, enter 'end' to stop: ");
+                System.out.print("Enter numbers to classify, enter '-1' to stop: ");
                 while(true)
                 {
                     String input = sc.nextLine();
